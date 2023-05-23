@@ -14,3 +14,23 @@ I'm feeling very excited to do the 100 Days of Code challenge again! In my first
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 1-35
+
+## Day 2
+
+_May 23_
+
+### Today's Progress:
+- Continued with string operations in JS
+- Learned about JS arrays and array operations like `.push()`, `.pop()`, `.shift()` and `.unshift()`
+- Reviewed JS functions
+- Reviewed difference between global and local scope in JS
+
+Study time: 1 hour
+
+### Thoughts:
+It was a bit more challenging to make time for studying today as I worked from the office and also had some afternoon plans. The fact that I started the challenge definitely helped!
+
+As a Java developer, I was (once again) surprised by the fact that JS arrays can contain any types of data. Another thing that I found interesting is how declaring variables without `let` or `const` keyword automatically makes them global, which can lead to unintended consequences.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 36-54
