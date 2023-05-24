@@ -34,3 +34,25 @@ As a Java developer, I was (once again) surprised by the fact that JS arrays can
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 36-54
+
+
+## Day 2
+
+_May 24_
+
+### Today's Progress:
+- Practicied writing functions in JS & learned different values returned from them (e.g. if function doesn't have a `return` statement, the returned value is `undefined`)
+- `if`, `else`, `else if`, and `switch` statements
+- Comparison operators
+- **Type coercion** and `==` vs `===` & `!=` vs `!==`
+- `typeof`
+- Logical operators
+
+Study time: 1 hour
+
+### Thoughts:
+I'll be repeating myself, but it was (even) a bit more challenging to make time for studying today. I only managed to start studying at 9pm. Surprisingly, I was able to focus just fine, but the study session would definitely be more enjoyable if I studied earlier in the day. Similarly to yesterday, I find it surprising/shocking that no return type has to be defined when creating a function (I seriously have to stop comparing JS to Java!).
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 55-77
+
