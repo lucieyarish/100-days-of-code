@@ -36,7 +36,7 @@ As a Java developer, I was (once again) surprised by the fact that JS arrays can
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 36-54
 
 
-## Day 2
+## Day 3
 
 _May 24_
 
@@ -55,4 +55,40 @@ I'll be repeating myself, but it was (even) a bit more challenging to make time 
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 55-77
+
+## Day 4
+
+_May 25_
+
+### Today's Progress:
+- Did exercises with `switch` statements and learned how to simplify if/else statements in JS (which is actually the same as in Java:
+
+Instead of writing:
+```
+function isEqual(a, b) {
+  if (a === b) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+
+You can write:
+```
+function isEqual(a, b) {
+  return a === b;
+}
+```
+
+- Then I started learning about JS objects which work very differently from Java, so I was taking my time today in order to really understand everything there is to learn about the topic
+- Regarding objects, I learned how to create new objects, how to access their properties, and also how to update/delete properties
+
+Study time: 1 hour
+
+### Thoughts:
+Learning about JS objects is truly enjoyable and fascinating because the way objects are created and how we can modify/add/delete their proberties is just so different and interesting. Can't wait to learn more about the topic tomorrow!
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 78-90
 
