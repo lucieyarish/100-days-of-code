@@ -92,3 +92,20 @@ Learning about JS objects is truly enjoyable and fascinating because the way obj
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 78-90
 
+## Day 5
+
+_May 26_
+
+### Today's Progress:
+- Review all main topics from previous days (especially JS objects)
+- JS objects exercises
+- Manipulating complex objects: Nested objects and nested arrays
+
+Study time: 1 hour
+
+### Thoughts:
+Too tired today - more thoughts tomorrow!
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 78-94
+
