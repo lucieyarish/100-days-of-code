@@ -109,3 +109,20 @@ Too tired today - more thoughts tomorrow!
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 78-94
 
+## Day 6
+
+_May 27_
+
+### Today's Progress:
+- Review objects again and do more JS objects exercises
+- Loops in JS (`while`, `do...while`, `for` loops and nested `for` loops)
+- Loops exercises
+
+Study time: 1 hour
+
+### Thoughts:
+Object manipulation in JavaScript REALLY confuses me. I worked on solving a few exercises in the freeCodeCamp curriculum today and they were so much more challenging than I thought they would be! The next topic coming up is recursion, which I didn't entirely understand during my bootcamp studies, so I'm excited to revisit it and hopefully fully get it this time.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 95-102
+
