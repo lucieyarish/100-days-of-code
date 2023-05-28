@@ -142,6 +142,6 @@ Tomorrow I'm going to try adjusting my daily routine and study first thing in th
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102
-[A Quick Intro to Recursion in Javascript]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)) -> Article about recursion
-[How JavaScript works: Recursion in JavaScript, What It Is, and How it is used.]([[https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)](https://medium.com/sessionstack-blog/how-javascript-works-recursion-in-javascript-what-it-is-and-how-it-is-used-eef3d734f20d)) -> Another article about recursion
+[A Quick Intro to Recursion in Javascript](https://www.freecodecamp.org/news/quick-intro-to-recursion/) -> Article about recursion
+[How JavaScript works: Recursion in JavaScript, What It Is, and How it is used.](https://medium.com/sessionstack-blog/how-javascript-works-recursion-in-javascript-what-it-is-and-how-it-is-used-eef3d734f20d) -> Another article about recursion
 
