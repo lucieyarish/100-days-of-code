@@ -141,7 +141,7 @@ Today was all about recursion. I did learn about this concept at my programming 
 Tomorrow I'm going to try adjusting my daily routine and study first thing in the morning. Leaving 100 days of code for evenings has been a mistake because I'm usually pretty exhausted after work and workouts.
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102
-[A Quick Intro to Recursion in Javascript](https://www.freecodecamp.org/news/quick-intro-to-recursion/) -> Article about recursion
-[How JavaScript works: Recursion in JavaScript, What It Is, and How it is used.](https://medium.com/sessionstack-blog/how-javascript-works-recursion-in-javascript-what-it-is-and-how-it-is-used-eef3d734f20d) -> Another article about recursion
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102
+- [A Quick Intro to Recursion in Javascript](https://www.freecodecamp.org/news/quick-intro-to-recursion/) -> Article about recursion
+- [How JavaScript works: Recursion in JavaScript, What It Is, and How it is used.](https://medium.com/sessionstack-blog/how-javascript-works-recursion-in-javascript-what-it-is-and-how-it-is-used-eef3d734f20d) -> Another article about recursion
 
