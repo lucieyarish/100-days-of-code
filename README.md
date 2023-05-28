@@ -124,5 +124,24 @@ Study time: 1 hour
 Object manipulation in JavaScript REALLY confuses me. I worked on solving a few exercises in the freeCodeCamp curriculum today and they were so much more challenging than I thought they would be! The next topic coming up is recursion, which I didn't entirely understand during my bootcamp studies, so I'm excited to revisit it and hopefully fully get it this time.
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 95-102
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 95-101
+
+## Day 7
+
+_May 28_
+
+### Today's Progress:
+- Recursion
+
+Study time: 1 hour
+
+### Thoughts:
+Today was all about recursion. I did learn about this concept at my programming bootcamp, but didn't have enought time to fully grasp it back then. For a few minutes, I thought I did understant it today, but when I wanted to solve a freeCodeCamp recursion exercise, I couldn't figure it out. So instead of rushing through the JS curriculum, I decided to read a few articles to better understand the topic.
+
+Tomorrow I'm going to try adjusting my daily routine and study first thing in the morning. Leaving 100 days of code for evenings has been a mistake because I'm usually pretty exhausted after work and workouts.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102
+[A Quick Intro to Recursion in Javascript]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)) -> Article about recursion
+[How JavaScript works: Recursion in JavaScript, What It Is, and How it is used.]([[https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)](https://medium.com/sessionstack-blog/how-javascript-works-recursion-in-javascript-what-it-is-and-how-it-is-used-eef3d734f20d)) -> Another article about recursion
 
