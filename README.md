@@ -141,7 +141,28 @@ Today was all about recursion. I did learn about this concept at my programming 
 Tomorrow I'm going to try adjusting my daily routine and study first thing in the morning. Leaving 100 days of code for evenings has been a mistake because I'm usually pretty exhausted after work and workouts.
 
 ### Links to Resources:
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lesson 102
 - [A Quick Intro to Recursion in Javascript](https://www.freecodecamp.org/news/quick-intro-to-recursion/) -> Article about recursion
 - [How JavaScript works: Recursion in JavaScript, What It Is, and How it is used.](https://medium.com/sessionstack-blog/how-javascript-works-recursion-in-javascript-what-it-is-and-how-it-is-used-eef3d734f20d) -> Another article about recursion
+
+## Day 8
+
+_May 29_
+
+### Today's Progress:
+- Recursion again
+- More object exercises
+- Generating random frictions and whole numbers with `Math.random()` and `Math.floor()`
+- `parseInt` function
+- Ternary operators & multiple conditional operators
+
+Study time: 1,5 hour
+
+### Thoughts:
+Hi recursion & objects, my old friends. I did a few more recursion & object exercises and I needed to use the hint function on freeCodeCamp! I couldn't figure out how to work with an array of objects since it wasn't one of the function's parameters and then I found out that I wasn't supposed to do that. Instead, I should have just manipulate an objects array that was already defined in the context. Oh well! I was planning on finishing the whole Basic JavaScript section today, but there are two more RECURSION exercises (more difficult than the ones I did over the past few days), so I'm gonna save those for tomorrow!
+
+By the way, I DID manage to study before work today, but I've been feeling a bit tired from getting up so early today. I guess one can't have it all! I'll see how much time I'll be able to devote to studying in the upcoming days since I really have to focus on learning some DDD and CQRS concepts at my new job.
+
+### Links to Resources:
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102-113
 
