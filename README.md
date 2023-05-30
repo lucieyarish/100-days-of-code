@@ -156,7 +156,7 @@ _May 29_
 - `parseInt` function
 - Ternary operators & multiple conditional operators
 
-Study time: 1,5 hour
+Study time: 1,5 hours
 
 ### Thoughts:
 Hi recursion & objects, my old friends. I did a few more recursion & object exercises and I needed to use the hint function on freeCodeCamp! I couldn't figure out how to work with an array of objects since it wasn't one of the function's parameters and then I found out that I wasn't supposed to do that. Instead, I should have just manipulate an objects array that was already defined in the context. Oh well! I was planning on finishing the whole Basic JavaScript section today, but there are two more RECURSION exercises (more difficult than the ones I did over the past few days), so I'm gonna save those for tomorrow!
@@ -166,3 +166,23 @@ By the way, I DID manage to study before work today, but I've been feeling a bit
 ### Links to Resources:
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic JavaScript part, lessons 102-113
 
+## Day 9
+
+_May 30_
+
+### Today's Progress:
+- JavaScript ES6 modules
+- JS array/object destructuring
+- React: The most important concepts
+
+Study time: 1,5 hours
+
+### Thoughts:
+Instead of continuing the JS freeCodeCamp course, I had to watch videos on React and important JS concepts, like array/object desctructuring and ES6 modules because I was assigned quite a few frontend tasks for this sprint. I think that I'm going to learn the most by actually working on the features, but I have to have some basic knowledge before I start. Tomorrow I'm planning to look into more React videos, and maybe also some about TypeScript & Redux. Why don't days have at least 30 hours?
+
+All videos I watched today are on a YouTube channel [https://www.youtube.com/@WebDevSimplified](Web Dev Simplified). I really like Kyle's way of explaining things, so I 100% recommend you check out his videos!:)
+
+### Links to Resources:
+- [Learn React With This One Project](https://www.youtube.com/watch?v=Rh3tobg7hEo)
+- [Why Is Array/Object Destructuring So Useful And How To Use It](https://www.youtube.com/watch?v=NIq3qLaHCIs&t=34s)
+- [JavaScript ES6 Modules](https://www.youtube.com/watch?v=cRHQNNcYf6s&t=1s)
