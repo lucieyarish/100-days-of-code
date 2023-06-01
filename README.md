@@ -186,3 +186,31 @@ All videos I watched today are on a YouTube channel [https://www.youtube.com/@We
 - [Learn React With This One Project](https://www.youtube.com/watch?v=Rh3tobg7hEo)
 - [Why Is Array/Object Destructuring So Useful And How To Use It](https://www.youtube.com/watch?v=NIq3qLaHCIs&t=34s)
 - [JavaScript ES6 Modules](https://www.youtube.com/watch?v=cRHQNNcYf6s&t=1s)
+
+## Day 10
+
+_May 31_
+
+### Today's Progress:
+- SKIPPED (busy day at work and relax after instead of studying)
+
+Study time: 0 hours
+
+## Day 11
+
+_June 1_
+
+### Today's Progress:
+ES6 topics:
+-  `var` vs `let`
+-  Mutating arrays declared with `const`
+-  Preventing object mutation with `Object.freeze()`
+-  Arrow functions
+
+Study time: 1 hour
+
+### Thoughts:
+Back to the freeCodeCamp course! Besides studying, I was refactoring components and learned a few things about React & TypeScript at work today, which I'm really happy about!
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 4
