@@ -213,4 +213,25 @@ Study time: 1 hour
 Back to the freeCodeCamp course! Besides studying, I was refactoring components and learned a few things about React & TypeScript at work today, which I'm really happy about!
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 4
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 1-4
+
+## Day 12
+
+_June 2_
+
+### Today's Progress:
+More ES6 topics:
+-  Write arrow functions with parameters
+-  Set default parameters for your functions
+-  Use the rest parameter with function parameters
+-  Spread operator
+
+Study time: 1 hour
+
+### Thoughts:
+Today I went over more ES6 topis and also read two articles about React and TypeScript.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 5-8
+[Why Must JSX Epressions Have Only One Parent Element?](https://dillionmegida.com/p/why-jsx-expressions-must-have-one-parent/)
+[7 Tips for Clean React TypeScript Code You Must Know](https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2)
