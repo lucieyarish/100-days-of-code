@@ -235,3 +235,23 @@ Today I went over more ES6 topis and also read two articles about React and Type
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 5-8
 [Why Must JSX Epressions Have Only One Parent Element?](https://dillionmegida.com/p/why-jsx-expressions-must-have-one-parent/)
 [7 Tips for Clean React TypeScript Code You Must Know](https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2)
+
+## Day 13
+
+_June 3_
+
+### Today's Progress:
+More ES6 topics: Use desctructuring assignment to:
+- Extract values from objects
+- Assign variables from objects
+- Assign variables from nested objects and arrays
+- Pass an object as a function's parameters
+- Desctructuring via rest elements
+
+Study time: 1 hour & 15 mins
+
+### Thoughts:
+Some aspects of destructuring are easy to understand, but using destructuring to pass an object as a function's parameters is definitely something I'll have to revisit tomorrow and try some more exercises to fully grasp it.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 9-14
