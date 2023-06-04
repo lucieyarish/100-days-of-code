@@ -255,3 +255,30 @@ Some aspects of destructuring are easy to understand, but using destructuring to
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 9-14
+
+## Day 14
+
+_June 4_
+
+### Today's Progress:
+ES6 topics:
+- Template literals
+- `"use strict"`
+- Object literal declarations using object property shorthand
+- Delarative functions with ES6
+- Use `class` syntax to define a constructor function
+- Getters & setters
+
+Master SpringBoot Microservices with CQRS & Event Sourcing
+- What are microservices?
+- CQRS and event sourcing
+- Axon platform
+
+Study time: 2 hours & 15 mins
+
+### Thoughts:
+Besides learning more ES6 topics, I also started a course recommended by my mentor at work. The project I'm working on consists of microservices, CQRS, event sourcing and Axon, so I want to make sure I learn all the concepts properly in order to better understand the code base.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 15-
+[Master SpringBoot Microservices with CQRS & Event Sourcing on Udemy](https://www.udemy.com/course/master-spring-boot-microservices-with-cqrs-event-sourcing/) -> The whole intro part
