@@ -280,5 +280,23 @@ Study time: 2 hours & 15 mins
 Besides learning more ES6 topics, I also started a course recommended by my mentor at work. The project I'm working on consists of microservices, CQRS, event sourcing and Axon, so I want to make sure I learn all the concepts properly in order to better understand the code base.
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 15-
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 15-19
 [Master SpringBoot Microservices with CQRS & Event Sourcing on Udemy](https://www.udemy.com/course/master-spring-boot-microservices-with-cqrs-event-sourcing/) -> The whole intro part
+
+## Day 15
+
+_June 6_
+
+### Today's Progress:
+ES6 topics:
+- JS modules
+- `export`, `import`, `export default`
+- Promises
+
+Study time: 1 hour & 20 mins
+
+### Thoughts:
+Couldn't study yesterday because I didn't have any internet during my only free time (train ride). Today I was, again, going over JS ES6 topis.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 20-29
