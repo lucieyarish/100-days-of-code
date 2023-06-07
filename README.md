@@ -296,7 +296,23 @@ ES6 topics:
 Study time: 1 hour & 20 mins
 
 ### Thoughts:
-Couldn't study yesterday because I didn't have any internet during my only free time (train ride). Today I was, again, going over JS ES6 topis.
+Couldn't study yesterday because I didn't have any internet during my only free time (train ride). Today I was, again, going over JS ES6 topics.
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 20-29
+
+## Day 16
+
+_June 7_
+
+### Today's Progress:
+Basic data structures:
+- Arrays and array operations
+
+Study time: 1 hour
+
+### Thoughts:
+After finishing the ES6 section, I decided to skip sections about regular expressions & debugging, and went straight for the basic data structures section of the course, as that is more important for me to learn at the moment. I'm definitely going to go back to the skipped part once I have more time and have enough JS knowledge to start with React & TS.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 1-7
