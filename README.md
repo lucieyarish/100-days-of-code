@@ -232,9 +232,8 @@ Study time: 1 hour
 Today I went over more ES6 topis and also read two articles about React and TypeScript.
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 5-8
-[Why Must JSX Epressions Have Only One Parent Element?](https://dillionmegida.com/p/why-jsx-expressions-must-have-one-parent/)
-[7 Tips for Clean React TypeScript Code You Must Know](https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2)
+- [Why Must JSX Epressions Have Only One Parent Element?](https://dillionmegida.com/p/why-jsx-expressions-must-have-one-parent/)
+- [7 Tips for Clean React TypeScript Code You Must Know](https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2)
 
 ## Day 13
 
@@ -280,8 +279,8 @@ Study time: 2 hours & 15 mins
 Besides learning more ES6 topics, I also started a course recommended by my mentor at work. The project I'm working on consists of microservices, CQRS, event sourcing and Axon, so I want to make sure I learn all the concepts properly in order to better understand the code base.
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 15-19
-[Master SpringBoot Microservices with CQRS & Event Sourcing on Udemy](https://www.udemy.com/course/master-spring-boot-microservices-with-cqrs-event-sourcing/) -> The whole intro part
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 15-19
+- [Master SpringBoot Microservices with CQRS & Event Sourcing on Udemy](https://www.udemy.com/course/master-spring-boot-microservices-with-cqrs-event-sourcing/) -> The whole intro part
 
 ## Day 15
 
@@ -352,6 +351,6 @@ Study time: 1 hour 10 minutes
 I spent quite a bit of time reviewing what I've learned so far because there are so many topics in the curriculum. After that, I continued with the Basic data structures section of the course, and also read an article about callback functions.
 
 ### Links to Resources:
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 8-12
-[JavaScript Callback Functions - What Are Callbacks And How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 8-12
+- [JavaScript Callback Functions - What Are Callbacks And How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
 
