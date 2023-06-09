@@ -285,6 +285,15 @@ Besides learning more ES6 topics, I also started a course recommended by my ment
 
 ## Day 15
 
+_June 5_
+
+### Today's Progress:
+- SKIPPED (no train internet)
+
+Study time: 0 hours
+
+## Day 16
+
 _June 6_
 
 ### Today's Progress:
@@ -301,7 +310,7 @@ Couldn't study yesterday because I didn't have any internet during my only free 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> ES6 part, lessons 20-29
 
-## Day 16
+## Day 17
 
 _June 7_
 
@@ -316,3 +325,33 @@ After finishing the ES6 section, I decided to skip sections about regular expres
 
 ### Links to Resources:
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 1-7
+
+## Day 18
+
+_June 8_
+
+### Today's Progress:
+- SKIPPED (busy day at work -> relax instead of studying)
+
+Study time: 0 hours
+
+## Day 19
+
+_June 9_
+
+### Today's Progress:
+- Review
+Basic data structures:
+- More array operations (spread operator)
+- `indexOf()`
+- `for` loops
+
+Study time: 1 hour 10 minutes
+
+### Thoughts:
+I spent quite a bit of time reviewing what I've learned so far because there are so many topics in the curriculum. After that, I continued with the Basic data structures section of the course, and also read an article about callback functions.
+
+### Links to Resources:
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 8-12
+[JavaScript Callback Functions - What Are Callbacks And How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
+
