@@ -354,3 +354,53 @@ I spent quite a bit of time reviewing what I've learned so far because there are
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 8-12
 - [JavaScript Callback Functions - What Are Callbacks And How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
 
+## Day 20
+
+_June 10_
+
+### Today's Progress:
+- SKIPPED (too much going on)
+
+## Day 21
+
+_June 11_
+
+### Today's Progress:
+ SKIPPED (too much going on)
+ 
+## Day 22
+
+_June 12_
+
+### Today's Progress:
+ SKIPPED (too much going on)
+ 
+ ## Day 23
+
+_June 13_
+
+### Today's Progress:
+- Review
+JS Objects:
+- Key-Value pairs
+- Object modification
+- Accessing property names w/ bracket notation
+- `delete` keyword
+- `hasOwnProperty()`
+- `for...in`
+- `Object.keys()`
+
+Study time: 1 hour 25 minutes
+
+### Thoughts:
+I definitely didn't plan on skipping so many days in a row, and I know that it breaks the rules of 100 Days of Code, but life happens. I've decided to continue no matter what just for the sake of staying consistent in studying. Life has been busy, work has been busy, so I'm trying to cut myself some slack here.
+
+The curriculum has been a great tool for learning JS concepts and I am planning to proceed to a React course on Udemy that I started a long time ago, but never finished. Last weekend, I listened to a podcast episode from Dev Theory which had mentioned different kinds of learning techniques, and one of them was the Feynman Technique. I'm planning to slow down a bit and start implementing this technique in my daily study sessions so that I can become better at retaining information. Besides that, I would also like to start practicing (and, more importantly, IMPROVING) my HTML & CSS (& hopefully JS) skills by starting building projects based on mockups provided on [Frontend Mentor](https://www.frontendmentor.io/). I do want to keep learning all the important concepts on the theoretical level, but building more things is something that I really enjoy. Especially when it comes to frontend development.
+
+Except for my after-work studies, I've been learning a ton of frontend related stuff at work this sprint. I'm almost done with building my biggest FE feature so far, and although I had to ask for a lot of help from my mentor and colleagues, I still managed to figure lots of things on my own, and that makes me really happy! Most importantly, I am now even more sure that I really really enjoy building frontend stuff.
+
+### Links to Resources:
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic data structures, lessons 13-20
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> Basic Algorithm Scripting, lessons 1-2
+- [Three Ways to Reverse a String in JavaScript](https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/)
+ 
